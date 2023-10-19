@@ -1,0 +1,12 @@
+#### This code is running in MacOS Apple Silicon:
+- Author: Alexander Cardoso - GitHub: PadaW4NN
+- Language: C++
+- Compiler: aarch64 - arm64 - clang++
+
+#### Framework compile from source - Linux & MacOS:
+- $ git clone https://github.com/google/googletest
+- $ cd googletest
+- $ mkdir build && cd build
+- $ cmake ..
+- $ make
+- $ sudo make install
